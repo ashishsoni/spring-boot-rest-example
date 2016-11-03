@@ -124,10 +124,10 @@
         </plugins>
     </build>
     <distributionManagement>
-    <snapshotRepository>
-        <id>snapshots</id>
-        <name>293d840b07dd-snapshots</name>
-        <url>http://localhost:8081/artifactory/libs-snapshot-local</url>
-    </snapshotRepository>
+    <repository>
+        <id>central</id>
+        <name>35bda3a0d3f7-releases</name>
+        <url>http://localhost:8081/artifactory/libs-release-local</url>
+    </repository>
 </distributionManagement>
 </project>
