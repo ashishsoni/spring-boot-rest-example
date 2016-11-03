@@ -127,7 +127,7 @@
     <repository>
         <id>central</id>
         <name>293d840b07dd-releases</name>
-        <url>http://artifactory:8081/artifactory/libs-release-local</url>
+        <url>http://artifactory:8081/artifactory/libs-snapshot-local</url>
     </repository>
 </distributionManagement>
 </project>
